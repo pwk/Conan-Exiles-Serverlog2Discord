@@ -10,11 +10,11 @@ Conan Exiles Serverlog to Discord via webhook and sqlite3 database
 - server is shutdown
 - server crashes (with error message)
 
-What do you need?
-Only python3 (https://www.python.org/downloads/)
+**What do you need?**
+- Only python3 (https://www.python.org/downloads/)
 
-Following modules are required: (standard only)
-subprocess, re, time, requests, json, sqlite3, os, datetime, configparser
+**Following modules are required:** (standard only)
+- subprocess re, time, requests, json, sqlite3, os, datetime, configparser
 
 **Installation:**
 1) Download all files and save them in any folder
