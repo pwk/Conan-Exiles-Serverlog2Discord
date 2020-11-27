@@ -13,7 +13,7 @@ Conan Exiles Serverlog to Discord via webhook and sqlite3 database
 What do you need?
 Only python3 (https://www.python.org/downloads/)
 
-Following modules are required: (standard only) 
+Following modules are required: (standard only)
 subprocess, re, time, requests, json, sqlite3, os, datetime, configparser
 
 **Installation:**
