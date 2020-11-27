@@ -6,6 +6,7 @@ Conan Exiles Serverlog to Discord via webhook and sqlite3 database
 - new players (with funcomid)
 - players joining server (with steamid and ip)
 - players leaving server
+- purges (with player/clan and coords)
 - gameworld is loaded
 - server is shutdown
 - server crashes (with error message)
